@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "description": "Description 1",
+      "completed": false,
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "Description 2",
+      "completed": false,
+      "favorite": true
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "description": "Description 3",
+      "completed": false,
+      "favorite": true
+    },
+    {
+      "id": 0.8370058352224019,
+      "title": "Ola",
+      "description": "Description 1",
+      "completed": false,
+      "favorite": true
+    },
+    {
+      "id": 0.3403937284261349,
+      "title": "Mundo",
+      "description": "Description 1",
+      "completed": false,
+      "favorite": true
+    }
+  ]
+}
